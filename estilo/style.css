@@ -44,7 +44,7 @@ header {
 
 }
 header > h1 {
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-android);
     font-size: 3em;
     font-weight: normal;
     color: white;
